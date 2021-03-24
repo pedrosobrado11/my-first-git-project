@@ -9,14 +9,10 @@ Quero poder:
 - Aprender Markdown.
 - Aprender a facer manuais.
 
-## Aprender git
+## indice
 
+1. [capítulo 1 - SQL](./capitulo-1/README.md)
 
-```sql
-SELECT ame
-FROM WORLD
-WHERE continent = "Europe";
-```
 
 ## Aprender GitHub
 
